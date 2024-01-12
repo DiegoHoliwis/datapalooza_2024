@@ -8,3 +8,7 @@ Informaciones:
 - Usuario wifi: UCeventos
 - Clave wifi: 50014
 
+Programas requeridos
+- [R](https://www.r-project.org/)
+- [Rstudio](https://posit.co/download/rstudio-desktop/)
+- [Rtools](https://cran.r-project.org/bin/windows/Rtools/)
