@@ -1,5 +1,4 @@
 # Actividad número 2 - Selenium
-library(tidyverse)
 library(rvest)
 library(RSelenium)
 library(stringr)
